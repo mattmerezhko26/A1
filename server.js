@@ -1,3 +1,15 @@
+/********************************************************************************
+* WEB422 – Assignment 1
+*
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+* https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
+*
+* Name:Matvii Merezhko Student ID:127769230 Date:2025/02/03
+* Published URL: https://a1-lemon.vercel.app/
+********************************************************************************/
+
+
 require('dotenv').config();
 const express = require('express');
 const app = express();
